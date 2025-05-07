@@ -10,8 +10,6 @@ An interactive Power BI dashboard that provides in-depth insights into OTT platf
 
 - Analyze IMDb ratings, release trends, and language distributions
 
-- Evaluate subscription and watch-time patterns (if available)
-
 - Track top-rated and most-watched titles by country, year, and platform
 
 ## ✅ Task Highlights:
