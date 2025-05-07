@@ -2,7 +2,7 @@
 An interactive Power BI dashboard that provides in-depth insights into OTT platforms such as Netflix, Amazon Prime Video, and Hotstar. This project helps analyze content trends, user behavior, genre performance, and platform comparisons.
 
 ## 📌 Overview
-- This dashboard enables decision-makers and analysts to:
+This dashboard enables decision-makers and analysts to:
 
 - Compare content libraries and genre dominance across platforms
 
